@@ -1,3 +1,7 @@
+(function () {
+    'use strict';
+Lampa.Platform.tv(); 
+
 Lampa.Storage.set('protocol', 'http');
 
  Lampa.Listener.follow('full', function(e) {
@@ -8,3 +12,5 @@ Lampa.Storage.set('protocol', 'http');
                 }, 0);
             }
         })
+
+})();
