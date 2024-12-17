@@ -306,6 +306,7 @@ export default {
     title_actor: 'Актьор',
     title_actress: 'Актриси',
     title_person: 'Човек',
+    title_persons: 'Човеки',
     title_comments: 'Коментари',
     title_torrents: 'Торенти',
     title_trailers: 'Трейлъри',
@@ -1115,5 +1116,29 @@ export default {
     ad_after: 'Реклама чрез',
     ad: 'Реклама',
     ad_skip: 'Пропускане',
-    ad_continue_after: 'Гледането ще започне в'
+    ad_continue_after: 'Гледането ще започне в',
+    settings_parser_prowlarr_link_descr: 'Предоставете връзка към сървъра Prowlarr',
+    settings_parser_prowlarr_key_descr: 'Намира се в раздела с настройки на Prowlarr в общата категория',
+    settings_player_torrent_type: 'Тип плеър за торенти',
+    settings_player_torrent_type_descr: 'На кой плеър да пускате торенти',
+
+    full_crew: 'Още',
+    full_editing: 'Редакция',
+    full_creator: 'Създател',
+    player_normalization_step_none: 'Нула',
+
+    settings_cub_backup_export_descr: 'Запазете настройките в облака',
+    settings_cub_backup_import_descr: 'Възстановете настройките от облака',
+
+    settings_interface_sound: 'Системни звуци',
+    settings_interface_sound_play: 'Преходи',
+    settings_interface_sound_level: 'Ниво на звука',
+    settings_interface_advanced_animation: 'Разширена анимация',
+
+    confirm_open_player: 'Друго устройство иска достъп до плейъра. Искате ли да пуснете видеоклипа?',
+
+    pincode_use_remote: 'Използвайте дистанционното управление, за да въведете кода, като натиснете стрелките, за да изберете желания номер.',
+    pincode_use_toggle: 'Натиснете и задръжте бутона OK, за да промените оформлението.',
+
+    settings_parental_control_where: 'Къде да поискате ПИН код',
 }

@@ -306,7 +306,8 @@ export default {
     title_actors: 'Actors',
     title_actor: 'Actor',
     title_actress: 'Actress',
-    title_person: 'A person',
+    title_person: 'Person',
+    title_persons: 'Persons',
     title_comments: 'Comments',
     title_torrents: 'Torrents',
     title_trailers: 'Trailers',
@@ -1116,5 +1117,29 @@ export default {
     ad_after: 'Advertising via',
     ad: 'Advertising',
     ad_skip: 'Skip',
-    ad_continue_after: 'Viewing will start in'
+    ad_continue_after: 'Viewing will start in',
+    settings_parser_prowlarr_link_descr: 'Provide a link to the Prowlarr server',
+    settings_parser_prowlarr_key_descr: 'Located in the Prowlarr settings tab in the general category',
+    settings_player_torrent_type: 'Player type for torrents',
+    settings_player_torrent_type_descr: 'Which player to play torrents',
+
+    full_crew: 'More',
+    full_editing: 'Editing',
+    full_creator: 'Creator',
+    player_normalization_step_none: 'Zero',
+
+    settings_cub_backup_export_descr: 'Save settings to the cloud',
+    settings_cub_backup_import_descr: 'Restore settings from the cloud',
+
+    settings_interface_sound: 'System sounds',
+    settings_interface_sound_play: 'Transitions',
+    settings_interface_sound_level: 'Volume level',
+    settings_interface_advanced_animation: 'Advanced animation',
+
+    confirm_open_player: 'Another device is requesting access to the player. Do you want to play the video?',
+
+    pincode_use_remote: 'Use the remote control to enter the code by pressing the arrows to select the desired number.',
+    pincode_use_toggle: 'Press and hold the OK button to change the layout.',
+
+    settings_parental_control_where: 'Where to request a PIN code',
 }

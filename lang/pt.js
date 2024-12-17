@@ -305,6 +305,7 @@ export default {
     title_actor: 'Ator',
     title_actress: 'Atriz',
     title_person: 'Pessoa',
+    title_persons: 'Pessoas',
     title_comments: 'Comentários',
     title_torrents: 'Torrents',
     title_trailers: 'Trailers',
@@ -1101,5 +1102,29 @@ export default {
     ad_after: 'Publicidade via',
     ad: 'Anúncio',
     ad_skip: 'Pular',
-    ad_continue_after: 'A visualização começará em'
+    ad_continue_after: 'A visualização começará em',
+    settings_parser_prowlarr_link_descr: 'Forneça um link para o servidor Prowlarr',
+    settings_parser_prowlarr_key_descr: 'Localizado na guia de configurações do Prowlarr na categoria geral',
+    settings_player_torrent_type: 'Tipo de player para torrents',
+    settings_player_torrent_type_descr: 'Qual player jogar torrents',
+
+    full_crew: 'Mais',
+    full_editing: 'Edição',
+    full_creator: 'Criador',
+    player_normalization_step_none: 'Zero',
+
+    settings_cub_backup_export_descr: 'Salvar configurações na nuvem',
+    settings_cub_backup_import_descr: 'Restaurar configurações da nuvem',
+
+    settings_interface_sound: 'Sons do sistema',
+    settings_interface_sound_play: 'Transições',
+    settings_interface_sound_level: 'Nível de volume',
+    settings_interface_advanced_animation: 'Animação Avançada',
+
+    confirm_open_player: 'Outro dispositivo está solicitando acesso ao player. Quer reproduzir o vídeo?',
+
+    pincode_use_remote: 'Utilize o comando para introduzir o código, premindo as setas para selecionar o número pretendido.',
+    pincode_use_toggle: 'Prima e mantenha premido o botão OK para alterar o layout.',
+
+    settings_parental_control_where: 'Onde solicitar um código PIN',
 }

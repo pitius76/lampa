@@ -285,6 +285,7 @@ export default {
     title_actor: 'Актор',
     title_actress: 'Актриса',
     title_person: 'Персона',
+    title_persons: 'Особи',
     title_comments: 'Коментарі',
     title_torrents: 'Торренти',
     title_trailers: 'Трейлери',
@@ -1081,5 +1082,39 @@ export default {
     ad_after: 'Реклама через',
     ad: 'Реклама',
     ad_skip: 'Пропустити',
-    ad_continue_after: 'Перегляд розпочнеться через'
+    ad_continue_after: 'Перегляд розпочнеться через',
+    settings_parser_prowlarr_link_descr: 'Вкажіть посилання на сервер Prowlarr',
+    settings_parser_prowlarr_key_descr: 'Знаходиться у вкладці налаштувань Prowlarr у категорії основне',
+    settings_player_torrent_type: 'Тип плеєра для торентів',
+    settings_player_torrent_type_descr: 'Яким плеєром відтворювати торренти',
+
+    full_crew: 'Ще',
+    full_editing: 'Редагування',
+    full_creator: 'Творець',
+    player_normalization_step_none: 'Нульова',
+
+    settings_cub_backup_export_descr: 'Зберегти налаштування у хмару',
+    settings_cub_backup_import_descr: 'Відновити налаштування з хмари',
+
+    settings_interface_sound: 'Системні звуки',
+    settings_interface_sound_play: 'Переходи',
+    settings_interface_sound_level: 'Рівень гучності',
+    settings_interface_advanced_animation: 'Просунута анімація',
+
+    discuss_rules_title: 'Дотримуйтесь правил і поважайте інших — створюємо комфорт разом!',
+    discuss_rules_rule_1: 'Не використовуйте слова, що складаються тільки з цифр.',
+    discuss_rules_rule_2: 'Пишіть однією мовою, використовуйте слова з 5 і більше літер.',
+    discuss_rules_rule_3: 'Використовуйте розділові знаки і завершуйте речення крапками.',
+    discuss_rules_rule_4: 'Уникайте незрозумілих символів !?#%',
+    discuss_rules_rule_5: 'Пишіть повні речення, використовуйте речення з 5 і більше слів.',
+    discuss_rules_rule_6: 'Не використовуйте занадто довгі слова.',
+    discuss_rules_rule_7: 'Намагайтеся вкластися в 300 символів.',
+    discuss_voited: 'Дякую за вашу оцінку! Ваш голос допомагає покращувати контент.',
+
+    confirm_open_player: 'Інший пристрій запитує доступ до програвача. Бажаєте відтворити відео?',
+
+    pincode_use_remote: 'Використовуйте пульт для введення коду, натискаючи стрілки, щоб вибрати потрібну цифру.',
+    pincode_use_toggle: 'Натисніть та утримуйте кнопку OK, щоб змінити розкладку.',
+
+    settings_parental_control_where: 'Де запитати PIN-код',
 }
